@@ -1,7 +1,7 @@
-# Hi there! 👋 Welcome to My GitHub
+# Welcome! 👋 
 
 ## 🧑‍💻 About Me  
-Based in California, I have a deep interest in **computers and cybersecurity**, blending my passion for coding into both work and personal projects. Outside the tech world, I love snapping Polaroid photos and making **memories with friends**, learning new things and solving challenges keeps me engaged, especially when it comes to technology. Recently, I’ve started hiking more often—there’s something about the mountains that’s both refreshing and inspiring.
+Welcome to my GitHub page! Here, you’ll find projects I’m currently working on, along with repositories showcasing my past work. Below, you can learn more about my background and the technologies I’ve worked with. As a self-taught developer, I have a deep passion for learning and exploring new concepts. Feel free to take a look around!
 
 ## 🚀 Tech & Skills  
 - **Languages:** JavaScript
