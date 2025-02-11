@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to My GitHub
 
 ## 🧑‍💻 About Me  
-I'm a passionate **self-taught programmer** with a strong interest in software development. I started coding at a young age, exploring different programming languages and building projects for fun. Currently, I'm pursuing an **Associate Degree in Computer Science** at community college, with the goal of turning my passion into a profession.
+Based in California, I have a deep interest in **computers and cybersecurity**, blending my passion for coding into both work and personal projects. Outside the tech world, I love snapping Polaroid photos and making **memories with friends**, learning new things and solving challenges keeps me engaged, especially when it comes to technology. Recently, I’ve started hiking more often—there’s something about the mountains that’s both refreshing and inspiring.
 
 ## 🚀 Tech & Skills  
 - **Languages:** JavaScript
