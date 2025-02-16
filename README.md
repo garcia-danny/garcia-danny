@@ -18,6 +18,6 @@ When I'm not programming, you can find me:
 ## 📫 Connect with Me  
 - **Portfolio:** [dannygarcia.org](https://dannygarcia.org)  
 - **LinkedIn:** [garcia-danny](https://www.linkedin.com/in/garcia-danny)  
-- **Email:** [danny@dannygarcia.org](mailto:danny@dannygarcia.org)  
+- **Email:** [contact@dannygarcia.org](mailto:contact@dannygarcia.org)  
 
 📌 *Created by Danny Garcia — For inquiries, feel free to reach out.*  
