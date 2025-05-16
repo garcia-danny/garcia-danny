@@ -1,23 +1,24 @@
 # Welcome! 👋 
 
 ## 🧑‍💻 About Me  
-This is my GitHub page which shows the current projects I am engaged in as well as links to the repositories of my previous work. This is more information about my experience and the technologies that I have used. I have learned to programming through the internet so I have a great passion for learning and discovering new things. Hope you can find some useful information here!
+This is my GitHub page where I share current projects and previous work. I've learned programming through the internet, which has fueled my passion for continual learning and discovery. I hope you find something useful or inspiring here!
 
 ## 🚀 Tech & Skills  
-- **Learning:** Typescript
-- **Web Development:** HTML, CSS, Javascript  
+- **Learning:** TypeScript  
+- **Web Development:** HTML, CSS, JavaScript  
 - **Tools & Platforms:** Git, GitHub, VS Code  
 - **Interests:** Software Development, Problem-Solving, Open Source  
 
-## 📸 Outside of Coding  
-When I'm not programming, you can find me:  
-- 📷 Capturing moments with cameras 
-- 🏋️‍♂️ Working out and staying active  
-- 🎉 Hanging out with friends
-- ✈️ Attempting to join the US Airforce
+## 🏋️ Outside of Coding  
+When I'm not writing code, I'm usually training in the gym, focusing on strength and endurance. Fitness is a big part of my routine and discipline.
+
+## 📊 GitHub Stats  
+![Danny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garcia-Danny&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Danny&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Connect with Me  
 - **Portfolio:** [dannygarcia.org](https://dannygarcia.org)  
-- **Email:** [contact@dannygarcia.org](mailto:contact@dannygarcia.org)
+- **Email:** [contact@dannygarcia.org](mailto:contact@dannygarcia.org)  
+- **Discord:** `dan.evr`  
 
-📌 *Created by Danny Garcia — For inquiries, feel free to reach out.*  
+📌 *Created by Danny Garcia — For inquiries, feel free to reach out.*
