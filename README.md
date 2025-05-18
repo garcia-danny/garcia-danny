@@ -18,7 +18,7 @@ When I'm not writing code, I'm usually training in the gym, focusing on strength
 
 ## 📫 Connect with Me  
 - **Portfolio:** [dannygarcia.org](https://dannygarcia.org)  
-- **Email:** [contact@dannygarcia.org](mailto:contact@dannygarcia.org)  
+- **Email:** [hello@dannygarcia.org](mailto:hello@dannygarcia.org)  
 - **Discord:** `dan.evr`  
 
 📌 *Created by Danny Garcia — For inquiries, feel free to reach out.*
