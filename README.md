@@ -4,10 +4,9 @@
 This is my GitHub page where I share current projects and previous work. I've learned programming through the internet, which has fueled my passion for continual learning and discovery. I hope you find something useful or inspiring here!
 
 ## 🚀 Tech & Skills  
-- **Learning:** TypeScript  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-- **Interests:** Software Development, Problem-Solving, Open Source  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,discord,vscode,git,github" />
+</p>
 
 ## 🏋️ Outside of Coding  
 When I'm not writing code, I'm usually training in the gym, focusing on strength and endurance. Fitness is a big part of my routine and discipline.
