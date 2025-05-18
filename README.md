@@ -7,7 +7,7 @@ This is my GitHub page where I share current projects and previous work. I've le
 
 ### 🛠️ Technologies I Use  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,heroku,githubactions,replit,robloxstudio” />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,heroku,githubactions,replit,robloxstudio" />
 </p>
 
 ### 💻 Languages  
