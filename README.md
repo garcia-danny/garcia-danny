@@ -5,7 +5,7 @@ This is my GitHub page where I share current projects and previous work. I've le
 
 ## 🚀 Tech & Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,discord,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,discordjs,vscode,git,github" />
 </p>
 
 ## 🏋️ Outside of Coding  
