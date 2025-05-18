@@ -4,8 +4,20 @@
 This is my GitHub page where I share current projects and previous work. I've learned programming through the internet, which has fueled my passion for continual learning and discovery. I hope you find something useful or inspiring here!
 
 ## 🚀 Tech & Skills  
+
+### 🛠️ Technologies I Use  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,discordjs,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,heroku,githubactions,replit,robloxstudio” />
+</p>
+
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,discordjs" />
+</p>
+
+### 📚 Currently Learning  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,mongodb,raspberrypi" />
 </p>
 
 ## 🏋️ Outside of Coding  
