@@ -1,8 +1,10 @@
- name: Metrics
+name: Metrics
+
 on:
-  # Run automatically once every day
-  schedule: [{cron: "0 0 * * *"}]
-  # Allow manual runs from the Actions tab
+  # Runs every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to run the workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -12,19 +14,13 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub username
           user: garcia-danny
-          # The token you added as a secret earlier
           token: ${{ secrets.METRICS_TOKEN }}
-          # Output file (this will appear in your repo)
           filename: metrics.svg
-
-          # ----- Basic Settings -----
           config_timezone: America/Los_Angeles
 
-          # ----- Plugins (Stats) -----
-          plugin_isocalendar: yes          # Shows contribution calendar
-          plugin_languages: yes            # Shows languages used
+          plugin_isocalendar: yes
+          plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_achievements: yes         # Shows GitHub achievements
-          plugin_followup: yes             # Shows issue/PR follow-ups 
+          plugin_achievements: yes
+          plugin_followup: yes
